@@ -632,13 +632,5 @@ private static MioDatabase instance = new MioDatabase();
 		}
 	}
 
-}
-
-
-
-		
-		
-		
-		
-		
+}	
 		
