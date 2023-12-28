@@ -27,6 +27,13 @@ Command Line Delivery is a cutting-edge project designed to streamline the onlin
 - **Varied Cuisines:** Enjoy a diverse selection of cuisines to cater to all tastes.
 
 <div align="center">
+  
+## 📊 Data Storage
+</div>
+
+All data, including menu items, orders, and user information, is stored in the database for a seamless and reliable experience.
+
+<div align="center">
 
 ## 💻 Installation and Usage
 
