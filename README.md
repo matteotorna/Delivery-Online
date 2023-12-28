@@ -40,10 +40,10 @@ Command Line Delivery is a cutting-edge project designed to streamline the onlin
    ```sh
    cd DeliveryOnline
 
-3. **Compile the application::**
+3. **Compile the application:**
    ```sh
    javac Main.java
 
-4. **Run the application::**
+4. **Run the application:**
    ```sh
    java Main
