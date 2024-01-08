@@ -43,14 +43,26 @@ All data, including menu items, orders, and user information, is stored in the d
    ```sh
    git clone https://github.com/matteotorna/DeliveryOnline.git
 
-2. **Navigate to the project directory:**
+2. **Download MySQL:**
+   ```sh
+   https://dev.mysql.com/downloads/mysql/
+
+3. **Create db:**
+   ```sh
+   mysql -u root -p -e "CREATE DATABASE justeat;"
+
+4. **Create user for db:**
+   ```sh
+   mysql -u root -p -e "CREATE USER 'justeatuser'@'localhost' IDENTIFIED BY 'password'; GRANT ALL PRIVILEGES ON justeat.* TO 'justeatuser'@'localhost';"
+
+5. **Navigate to the project directory:**
    ```sh
    cd DeliveryOnline
 
-3. **Compile the application:**
+6. **Compile the application:**
    ```sh
    javac -d bin src/com/justeat/*.java
 
-4. **Run the application:**
+7. **Run the application:**
    ```sh
    java -cp bin com.justeat.test.Test
