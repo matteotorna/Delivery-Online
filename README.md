@@ -49,8 +49,8 @@ All data, including menu items, orders, and user information, is stored in the d
 
 3. **Compile the application:**
    ```sh
-   javac Main.java
+   javac -d bin src/com/justeat/*.java
 
 4. **Run the application:**
    ```sh
-   java Main
+   java -cp bin com.justeat.test.Test
