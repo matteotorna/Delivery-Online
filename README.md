@@ -22,7 +22,7 @@ Command Line Delivery is a cutting-edge project designed to streamline the onlin
 
 </div>
 
-- **Interactive Menu:** Effortlessly navigate through the menu and choose your favorite dishes.
+- **Menu:** Effortlessly navigate through the menu and choose your favorite dishes.
 - **Easy Ordering:** Complete orders seamlessly with just a few commands, no hassles.
 
 <div align="center">
