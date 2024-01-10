@@ -24,7 +24,6 @@ Command Line Delivery is a cutting-edge project designed to streamline the onlin
 
 - **Interactive Menu:** Effortlessly navigate through the menu and choose your favorite dishes.
 - **Easy Ordering:** Complete orders seamlessly with just a few commands, no hassles.
-- **Varied Cuisines:** Enjoy a diverse selection of cuisines to cater to all tastes.
 
 <div align="center">
   
